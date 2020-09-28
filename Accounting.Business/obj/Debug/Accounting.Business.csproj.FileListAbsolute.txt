@@ -1,0 +1,6 @@
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\Lion\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
